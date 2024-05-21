@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-"Nombre: Alejandro Mart�nez Fern�ndez" 
+"Nombre: Alejandro Moreno Fernandez" 
 =======
-﻿# Práctica Fork
-Repositorio de prácticas para el ejercicio Fork
+ï»¿# PrÃ¡ctica Fork
+Repositorio de prÃ¡cticas para el ejercicio Fork
 
-Añade a continuación tu nombre,  apellidos (si quieres usar pseudónimo, me informas en privado)  y curso:
-Carmina Martinez 6W 1 DAW
+AÃ±ade a continuaciÃ³n tu nombre,  apellidos (si quieres usar pseudÃ³nimo, me informas en privado)  y curso:
+Alejandro Moreno Fernandez DAW 6K
 
 
 
